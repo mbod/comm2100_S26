@@ -3,7 +3,7 @@
 # COMM 2100 Research Methods in Communication
 
 
-## Fall 2025
+## Spring 2026
 
 
 ### Monday/Wednesday 3.30-5.00pm (Room: ASC 109)
@@ -188,11 +188,17 @@ on the web etc.
 
 # Schedule
 
+**NOTE: This is a tentative schedule that will change as the course gets
+started**
+
 
 ## Week 1
 
 
 ### Wednesday 14 January
+
+-   Introduction and JupyterHub setup
+-   Class Survey
 
 
 ## Week 2
@@ -203,14 +209,33 @@ on the web etc.
 
 ### Wednesday 21 January
 
+-   Overview of Research Process and Communication Environments
+-   Working in an R notebook
+-   TikTok Content Analysis Exercise
+
 
 ## Week 3
 
 
+### QUIZ 1 DUE - Sunday 25 January @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 1 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
 ### Monday 26 January
+
+-   Purpose of research
+-   Using numbers for social justice
+-   Qualitative, Quantitative and Mixed-Methods
+-   Quantitative approach to research
+-   Basics of R data analysis (tidy pipelines and `ggplot`)
 
 
 ### Wednesday 28 January
+
+-   The basics of plotting with `ggplot`
+-   Research method stages
 
 
 ## Week 4
