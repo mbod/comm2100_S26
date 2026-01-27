@@ -288,10 +288,20 @@ started**
 ### Wednesday 11 February
 
 
+### ASSIGNMENT 2 DUE - Friday 13 February @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
 ## Week 6 - Using Surveys (2)
 
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+
+
+### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Sunday 15 February @ 11.59pm
+
+-   **Submit in Canvas**
 
 
 ### Monday 16 February
@@ -301,6 +311,11 @@ started**
 
 
 ### Wednesday 18 February
+
+
+### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Friday 20 February @ 11.59pm
+
+-   **Submit in Canvas**
 
 
 ## Week 7 - Measurement
@@ -328,6 +343,18 @@ started**
 -   Measurement, Validity & Reliability
 
 
+### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Sunday 05 October @ 11.59pm
+
+-   Write up of:
+    1.  Research Idea and Question(s)
+        (and related Hypotheses if appropriate)
+    2.  Conceptual Definitions
+    3.  Interview questions
+    4.  Interview Transcripts
+-   Submit in Canvas
+-   Group submission (one submission per group)
+
+
 ## Week 8 - Sampling
 
 -   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
@@ -347,6 +374,11 @@ started**
 
 
 ### Wednesday 04 March
+
+
+### ASSIGNMENT 3 DUE - Friday 06 March @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ## SPRING BREAK March 7-15
@@ -376,6 +408,17 @@ started**
 -   Analysis of experimental data
 
 
+### GROUP PROJECT 1 - PART B ASSIGNMENT DUE - Friday 20 March @ 11.59pm
+
+-   Write up of:
+    1.  Interview transcripts analysis (themes/topics)
+    2.  Operationalization of concepts
+    3.  Survey questions
+    4.  Create and test Qualtrics survey
+-   Submit in Canvas
+-   Group submission (one submission per group)
+
+
 ## Week 10 - Content Analysis (1)
 
 -   READINGS: `S&R` Ch. 7 (pp. 154-173) & `W&G` Chs. 7 & 28
@@ -400,6 +443,11 @@ started**
 -   Content Analysis
 -   Intercoder Reliability measures
 -   Start Group Project 2 (Content and discourse analysis)
+
+
+### ASSIGNMENT 4 DUE - Friday 27 March @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ## Week 11 - Content and Discourse Analysis (2)
@@ -433,6 +481,11 @@ started**
 -   Discourse Analysis
 
 
+### ASSIGNMENT 5 DUE - Friday 03 April @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
 
 -   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 10
@@ -453,6 +506,11 @@ started**
 ### Wednesday 08 April
 
 -   Intercoder Reliability
+
+
+### ASSIGNMENT 6 DUE - Friday 10 April @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ## Week 13 - Calculation and Statistics Overview
@@ -477,6 +535,11 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
+### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 17 April @ 11.59pm
+
+-   Submit in Canvas
+
+
 ## Week 14 - Making inferences &  Data analysis
 
 -   READINGS: `S&R` Chs. 8 & 9
@@ -491,6 +554,11 @@ started**
 ### Wednesday 22 April
 
 
+### ASSIGNMENT 7 DUE - Friday 24 April @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
 ## Week 15 - Wrapping things up!
 
 
@@ -500,6 +568,11 @@ started**
 
 
 ### Wednesday 29 April
+
+
+### ASSIGNMENT 8 DUE - Friday 01 May @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - Wednesday 12 May @ 11.59pm
