@@ -192,7 +192,7 @@ on the web etc.
 started**
 
 
-## Week 1
+## Week 1 - Introduction and Setup
 
 
 ### Wednesday 14 January
@@ -201,7 +201,7 @@ started**
 -   Class Survey
 
 
-## Week 2
+## Week 2 - Introduction
 
 
 ### Monday 19 January ****NO CLASS - MLK, Jr. Day****
@@ -214,7 +214,7 @@ started**
 -   TikTok Content Analysis Exercise
 
 
-## Week 3
+## Week 3 - Overview of Social Science research
 
 
 ### QUIZ 1 DUE - Sunday 25 January @ 11.59pm
@@ -223,7 +223,13 @@ started**
 -   Please make sure to read `S&R` Ch, 1 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
-### Monday 26 January
+### Monday 26 January &#x2013; CLASS CANCELLED BECAUSE OF WEATHER
+
+
+### Wednesday 28 January
+
+-   The basics of plotting with `ggplot`
+-   Research method stages
 
 -   Purpose of research
 -   Using numbers for social justice
@@ -232,52 +238,112 @@ started**
 -   Basics of R data analysis (tidy pipelines and `ggplot`)
 
 
-### Wednesday 28 January
+## Week 4 - Ethics and Social Science Research
 
--   The basics of plotting with `ggplot`
--   Research method stages
+-   READINGS: `S&R` Ch. 1 & `W&G` Ch. 2
+    -   <https://r4ds.had.co.nz/explore-intro.html>
 
 
-## Week 4
+### QUIZ 2 DUE - Sunday 01 February @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 2 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 02 February
 
+-   Ethics and Research
+-   Setting up daily tracking survey using Google Forms
+
 
 ### Wednesday 04 February
 
+-   Using R for data analysis and visualization
 
-## Week 5
+
+### ASSIGNMENT 1 DUE - Friday 06 February @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
+## Week 5 - Using Surveys (1)
+
+-   READINGS: `S&R` Ch. 2 & `W&G` Ch. 4
+    -   <https://r4ds.had.co.nz/workflow-basics.html>
+
+
+### QUIZ 3 DUE - Sunday 08 February @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 5 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 09 February
+
+-   Using surveys
+-   Working on survey mini project
+-   Using Qualtrics
 
 
 ### Wednesday 11 February
 
 
-## Week 6
+## Week 6 - Using Surveys (2)
+
+-   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
+    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
 
 ### Monday 16 February
+
+-   Cognitive Interviews
+-   Evaluating survey items
 
 
 ### Wednesday 18 February
 
 
-## Week 7
+## Week 7 - Measurement
+
+-   READINGS: `S&R` Ch. 3 & `W&G` Ch. 3
+    -   <https://r4ds.had.co.nz/data-visualisation.html>
+
+
+### QUIZ 4 DUE - Sunday 22 September @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 3 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 23 February
 
+-   Operationalization
+-   Data frames
+-   Data types
+-   Visualization
+
 
 ### Wednesday 25 February
 
+-   Measurement, Validity & Reliability
 
-## Week 8
+
+## Week 8 - Sampling
+
+-   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
+    -   <https://r4ds.had.co.nz/transform.html>
+    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+
+
+### QUIZ 5 DUE - Sunday 01 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 4 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 02 March
+
+-   Selecting and sampling from a data frame
 
 
 ### Wednesday 04 March
@@ -286,65 +352,157 @@ started**
 ## SPRING BREAK March 7-15
 
 
-## Week 9
+## Week 9 - Using Experiments
+
+-   READINGS: `S&R` Ch. 6
 
 
 ### Monday 16 March
 
+-   Using experiments
+-   In class experiment data collection
+
+
+### QUIZ 6 DUE - Tuesday 18 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 6 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
 
 ### Wednesday 18 March
 
+-   Experimental design
+-   Logic of experiments
+-   Analysis of experimental data
 
-## Week 10
+
+## Week 10 - Content Analysis (1)
+
+-   READINGS: `S&R` Ch. 7 (pp. 154-173) & `W&G` Chs. 7 & 28
+    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+    -   <https://r4ds.had.co.nz/graphics-for-communication.html>
+
+
+### QUIZ 7 DUE - Sunday 22 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 7 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 23 March
 
+-   Grouping/Aggregating data & More visualization
+-   Content Analysis (Part 1)
+
 
 ### Wednesday 25 March
 
+-   Content Analysis
+-   Intercoder Reliability measures
+-   Start Group Project 2 (Content and discourse analysis)
 
-## Week 11
+
+## Week 11 - Content and Discourse Analysis (2)
+
+-   READINGS: `S&R` Ch. 7 (pp. 174-181) & `W&G` Chs. 7 & 28
+    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+    -   <https://r4ds.had.co.nz/graphics-for-communication.html>
+
+
+### QUIZ 8 DUE - Sunday 29 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read the chapters on Content and Discourse Analysis and watch lecture video in Canvas **BEFORE** attempting this quiz
+    1.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-20/>
+    2.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-21/>
+    3.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-22/>
+    4.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-23/>
 
 
 ### Monday 30 March
 
+-   Examining distributions and associations between variables
+-   Summary visualization
+-   Using discourse analysis
+-   Working on Group Project 2
+
 
 ### Wednesday 01 April
 
+-   Content Analysis (Part 2)
+-   Discourse Analysis
 
-## Week 12
+
+## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
+
+-   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 10
+
+
+### QUIZ 9 DUE - Sunday 05 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 10 **BEFORE** attempting this quiz
 
 
 ### Monday 06 April
 
+-   Working on Content Analysis project
+-   Mixed-methods
+
 
 ### Wednesday 08 April
 
+-   Intercoder Reliability
 
-## Week 13
+
+## Week 13 - Calculation and Statistics Overview
+
+-   READINGS: `S&R` Chs. 8 & 9
+
+
+### QUIZ 10 DUE - Sunday 12 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 8 (195-202) and Ch. 9 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### Monday 13 April
 
+-   Descriptive statistics and intro to models
+-   Working on Content Analysis project
+
 
 ### Wednesday 15 April
 
+-   Types of statistics, Hypothesis testing and types of error
 
-## Week 14
+
+## Week 14 - Making inferences &  Data analysis
+
+-   READINGS: `S&R` Chs. 8 & 9
 
 
 ### Monday 20 April
+
+-   Inferential statistics and thinking about correlation and causation
+-   Working on data analysis
 
 
 ### Wednesday 22 April
 
 
-## Week 15
+## Week 15 - Wrapping things up!
 
 
 ### Monday 27 April
 
+-   Working on data analysis from content analysis mini project
+
 
 ### Wednesday 29 April
+
+
+### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - Wednesday 12 May @ 11.59pm
+
+-   Submit in Canvas
 
