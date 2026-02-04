@@ -268,7 +268,7 @@ started**
 
 ## Week 5 - Using Surveys (1)
 
--   READINGS: `S&R` Ch. 2 & `W&G` Ch. 4
+-   READINGS: `S&R` Ch. 5 & `W&G` Ch. 4
     -   <https://r4ds.had.co.nz/workflow-basics.html>
 
 
@@ -281,11 +281,13 @@ started**
 ### Monday 09 February
 
 -   Using surveys
--   Working on survey mini project
 -   Using Qualtrics
 
 
 ### Wednesday 11 February
+
+-   Working on Assignment 2
+-   Working on survey mini project
 
 
 ### ASSIGNMENT 2 DUE - Friday 13 February @ 11.59pm
