@@ -301,11 +301,6 @@ started**
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
 
-### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Sunday 15 February @ 11.59pm
-
--   **Submit in Canvas**
-
-
 ### Monday 16 February
 
 -   Cognitive Interviews
@@ -315,9 +310,9 @@ started**
 ### Wednesday 18 February
 
 
-### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Friday 20 February @ 11.59pm
+### ASSIGNMENT 3 DUE - Friday 20 February @ 11.59pm
 
--   **Submit in Canvas**
+-   Submit in Jupyterhub
 
 
 ## Week 7 - Measurement
@@ -378,7 +373,7 @@ started**
 ### Wednesday 04 March
 
 
-### ASSIGNMENT 3 DUE - Friday 06 March @ 11.59pm
+### ASSIGNMENT 4 DUE - Friday 06 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -447,7 +442,7 @@ started**
 -   Start Group Project 2 (Content and discourse analysis)
 
 
-### ASSIGNMENT 4 DUE - Friday 27 March @ 11.59pm
+### ASSIGNMENT 5 DUE - Friday 27 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -483,7 +478,7 @@ started**
 -   Discourse Analysis
 
 
-### ASSIGNMENT 5 DUE - Friday 03 April @ 11.59pm
+### ASSIGNMENT 6 DUE - Friday 03 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -510,7 +505,7 @@ started**
 -   Intercoder Reliability
 
 
-### ASSIGNMENT 6 DUE - Friday 10 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 10 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -556,7 +551,7 @@ started**
 ### Wednesday 22 April
 
 
-### ASSIGNMENT 7 DUE - Friday 24 April @ 11.59pm
+### ASSIGNMENT 8 DUE - Friday 24 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
