@@ -340,18 +340,6 @@ started**
 -   Measurement, Validity & Reliability
 
 
-### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Friday 27 February @ 11.59pm
-
--   Write up of:
-    1.  Research Idea and Question(s)
-        (and related Hypotheses if appropriate)
-    2.  Conceptual Definitions
-    3.  **Interview** questions
-    4.  **Interview** Transcripts
--   Submit in Canvas
--   Group submission (one submission per group)
-
-
 ## Week 8 - Sampling
 
 -   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
@@ -368,6 +356,18 @@ started**
 ### Monday 02 March
 
 -   Selecting and sampling from a data frame
+
+
+### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Monday 02 February @ 11.59pm
+
+-   Write up of:
+    1.  Research Idea and Question(s)
+        (and related Hypotheses if appropriate)
+    2.  Conceptual Definitions
+    3.  **Interview** questions
+    4.  **Interview** Transcripts
+-   Submit in Canvas
+-   Group submission (one submission per group)
 
 
 ### Wednesday 04 March
