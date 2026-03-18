@@ -433,13 +433,16 @@ started**
 
 -   Grouping/Aggregating data & More visualization
 -   Content Analysis (Part 1)
-
-
-### Wednesday 25 March
-
 -   Content Analysis
 -   Intercoder Reliability measures
 -   Start Group Project 2 (Content and discourse analysis)
+
+
+### Wednesday 25 March - NO CLASS (watch video in Canvas)
+
+-   ****NO IN PERSON CLASS TODAY****
+-   There will be a recording to watch in Canvas and instructions for
+    working on Assignment 5
 
 
 ### ASSIGNMENT 5 DUE - Friday 27 March @ 11.59pm
