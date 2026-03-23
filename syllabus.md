@@ -423,12 +423,6 @@ started**
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-### QUIZ 7 DUE - Sunday 22 March @ 11.59pm
-
--   Submit in Canvas
--   Please make sure to read `S&R` Ch. 7 and watch lecture video in Canvas **BEFORE** attempting this quiz
-
-
 ### Monday 23 March
 
 -   Grouping/Aggregating data & More visualization
@@ -443,6 +437,12 @@ started**
 -   ****NO IN PERSON CLASS TODAY****
 -   There will be a recording to watch in Canvas and instructions for
     working on Assignment 5
+
+
+### QUIZ 7 DUE - Wednesday 25 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 7 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### ASSIGNMENT 5 DUE - Friday 27 March @ 11.59pm
