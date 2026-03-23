@@ -434,7 +434,7 @@ started**
 
 ### Wednesday 25 March - NO CLASS (watch video in Canvas)
 
--   ****NO IN PERSON CLASS TODAY****
+-   **NO IN PERSON CLASS TODAY**
 -   There will be a recording to watch in Canvas and instructions for
     working on Assignment 5
 
