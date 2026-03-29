@@ -457,7 +457,15 @@ started**
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-### QUIZ 8 DUE - Sunday 29 March @ 11.59pm
+### Monday 30 March
+
+-   Examining distributions and associations between variables
+-   Summary visualization
+-   Using discourse analysis
+-   Working on Group Project 2
+
+
+### QUIZ 8 DUE - Tuesday 31 March @ 11.59pm
 
 -   Submit in Canvas
 -   Please make sure to read the chapters on Content and Discourse Analysis and watch lecture video in Canvas **BEFORE** attempting this quiz
@@ -465,14 +473,6 @@ started**
     2.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-21/>
     3.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-22/>
     4.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-23/>
-
-
-### Monday 30 March
-
--   Examining distributions and associations between variables
--   Summary visualization
--   Using discourse analysis
--   Working on Group Project 2
 
 
 ### Wednesday 01 April
