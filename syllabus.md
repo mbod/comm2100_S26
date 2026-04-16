@@ -529,11 +529,6 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 17 April @ 11.59pm
-
--   Submit in Canvas
-
-
 ## Week 14 - Making inferences &  Data analysis
 
 -   READINGS: `S&R` Chs. 8 & 9
@@ -549,14 +544,17 @@ started**
 
 -   Inferential statistics and thinking about correlation and causation
 -   Working on data analysis
+-   Working on Group Content Analysis projects
 
 
 ### Wednesday 22 April
 
+-   Working on Group Content Analysis projects
 
-### ASSIGNMENT 8 DUE - Friday 24 April @ 11.59pm
 
--   Submit in Jupyterhub
+### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 24 April @ 11.59pm
+
+-   Submit in Canvas
 
 
 ## Week 15 - Wrapping things up!
@@ -575,7 +573,8 @@ started**
 -   Submit in Jupyterhub
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - Wednesday 12 May @ 11.59pm
+### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - Friday 8 May @ 11.59pm
 
 -   Submit in Canvas
+-   Make sure group JupyterHub project folder up to date
 
