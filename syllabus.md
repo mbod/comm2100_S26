@@ -567,6 +567,8 @@ started**
 
 ### Wednesday 29 April
 
+-   Working on data analysis from content analysis mini project
+
 
 ### ASSIGNMENT 8 DUE - Friday 01 May @ 11.59pm
 
